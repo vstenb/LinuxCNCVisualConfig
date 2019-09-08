@@ -1,1 +1,1 @@
-# LinuxCNCVisualHAL
+# LinuxCNCVisualConfig
